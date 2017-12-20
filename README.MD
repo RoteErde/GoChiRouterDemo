@@ -1,1 +1,1 @@
-Example Go Lang Chi Routing
+Example of GoLang Chi Routing
